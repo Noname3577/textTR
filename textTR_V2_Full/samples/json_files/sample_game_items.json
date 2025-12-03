@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "item_sword",
+        "description": "A powerful sword for warriors."
+    },
+    {
+        "id": 2,
+        "name": "item_shield",
+        "description": "A sturdy shield for protection."
+    },
+    {
+        "id": 3,
+        "name": "item_potion",
+        "description": "A healing potion that restores health."
+    },
+    {
+        "id": 4,
+        "name": "item_scroll",
+        "description": "A magical scroll with ancient spells."
+    }
+]
