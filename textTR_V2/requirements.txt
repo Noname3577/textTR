@@ -1,0 +1,32 @@
+# Text File Splitter & Merger GUI Requirements
+# ไฟล์นี้ระบุ dependencies ที่ต้องติดตั้งเพื่อใช้งาน GUI ได้เต็มที่
+
+# Core dependencies
+# tkinter - มากับ Python standard library แล้ว
+
+# Essential packages
+requests>=2.32.5
+
+# AI Translation - Google Gemini (แนะนำสำหรับการแปลคุณภาพสูง)
+google-genai>=1.52.0
+
+# Translation libraries (เลือกติดตั้งตัวใดตัวหนึ่งหรือหลายตัว)
+# ตัวเลือกที่ 1: googletrans (รวดเร็ว แต่อาจไม่เสถียร)
+googletrans==4.0.0rc1
+
+# ตัวเลือกที่ 2: deep-translator (เสถียรกว่า แนะนำ)
+deep-translator>=1.11.4
+
+# ตัวเลือกที่ 3: translate (ง่ายต่อการใช้งาน)
+translate>=3.8.0
+
+# File handling
+chardet>=5.2.0
+
+# Optional: สำหรับระบบ Path ใน Python เก่า
+# pathlib2>=2.3.7
+
+# Development dependencies (ไม่จำเป็นสำหรับการใช้งานทั่วไป)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
