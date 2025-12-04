@@ -1,0 +1,72 @@
+Hello World
+Welcome to our game!
+def calculate_damage(attack, defense):
+    return max(0, attack - defense)
+This is a normal sentence to translate.
+class Player:
+    def __init__(self, name):
+        self.name = name
+Please enter your name:
+import numpy as np
+import pandas as pd
+The adventure begins here.
+for i in range(10):
+    print(i)
+Are you ready to start?
+if player.health <= 0:
+    game_over()
+Thank you for playing!
+const API_URL = "https://api.example.com"
+Choose your character:
+let score = 0;
+var playerName = "Hero";
+This item will restore your health.
+SELECT * FROM players WHERE level > 10
+INSERT INTO inventory VALUES (1, "sword", 100)
+The dragon awaits in the castle.
+function attack(target) {
+    target.hp -= this.damage;
+}
+You have defeated the enemy!
+<div class="container">
+    <span>Content</span>
+</div>
+Press any key to continue...
+.button { color: red; background: blue; }
+Your score has been saved.
+// This is a comment
+# Another comment
+/* Multi-line comment */
+Congratulations on your victory!
+@app.route('/home')
+def home():
+    return render_template('index.html')
+The treasure chest contains gold coins.
+npm install express
+pip install requests
+git clone https://github.com/example/repo
+Would you like to save your progress?
+https://www.example.com/path/to/resource
+C:\Users\Admin\Documents\save.txt
+/usr/local/bin/python3
+The magic spell was cast successfully.
+player_health = 100
+playerScore = 500
+GAME_OVER_MESSAGE = "Game Over"
+You unlocked a new achievement!
+{"name": "John", "age": 30}
+["apple", "banana", "orange"]
+The quest has been completed.
+result = a + b * c / d
+x == y && z != w
+The merchant offers you a deal.
+lambda x: x * 2
+(x) => x + 1
+Your inventory is full.
+0x1A2B3C
+3.14159
+255
+The portal opens before you.
+@Override
+@Deprecated
+You found a hidden passage!

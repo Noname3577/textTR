@@ -1,0 +1,100 @@
+{
+  "game_strings": [
+    {
+      "id": "MSG_001",
+      "text": "Welcome to the adventure!"
+    },
+    {
+      "id": "MSG_002",
+      "text": "def initialize_game():"
+    },
+    {
+      "id": "MSG_003",
+      "text": "Please select your character."
+    },
+    {
+      "id": "MSG_004",
+      "text": "class GameEngine:"
+    },
+    {
+      "id": "MSG_005",
+      "text": "The dragon is approaching!"
+    },
+    {
+      "id": "MSG_006",
+      "text": "import random"
+    },
+    {
+      "id": "MSG_007",
+      "text": "You found a treasure chest."
+    },
+    {
+      "id": "MSG_008",
+      "text": "for item in inventory:"
+    },
+    {
+      "id": "MSG_009",
+      "text": "Your health has been restored."
+    },
+    {
+      "id": "MSG_010",
+      "text": "if player.level >= 10:"
+    },
+    {
+      "id": "MSG_011",
+      "text": "The magic spell was successful!"
+    },
+    {
+      "id": "MSG_012",
+      "text": "return self.calculate_damage()"
+    },
+    {
+      "id": "MSG_013",
+      "text": "Would you like to save your game?"
+    },
+    {
+      "id": "MSG_014",
+      "text": "<button onclick='save()'>Save</button>"
+    },
+    {
+      "id": "MSG_015",
+      "text": "Congratulations! You won!"
+    },
+    {
+      "id": "MSG_016",
+      "text": "const MAX_LEVEL = 100;"
+    },
+    {
+      "id": "MSG_017",
+      "text": "The enemy has been defeated."
+    },
+    {
+      "id": "MSG_018",
+      "text": "npm install game-engine"
+    },
+    {
+      "id": "MSG_019",
+      "text": "Press ENTER to continue..."
+    },
+    {
+      "id": "MSG_020",
+      "text": "https://api.game.com/scores"
+    }
+  ],
+  "ui_labels": {
+    "start_button": "Start Game",
+    "load_button": "function loadGame() {",
+    "settings": "Settings Menu",
+    "exit_code": "sys.exit(0)",
+    "help_text": "Need help? Click here!"
+  },
+  "dialogues": [
+    "Hello, brave warrior!",
+    "console.log('Player joined');",
+    "The kingdom needs your help.",
+    "SELECT name FROM heroes",
+    "I will grant you this magical sword.",
+    "@player.on_join",
+    "Your quest begins now!"
+  ]
+}
